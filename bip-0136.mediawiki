@@ -88,6 +88,7 @@ There are no known compatibility issues.
 
 == Reference implementations ==
 C Reference Implementation: https://github.com/jonasschnelli/bitcoin_txref_code
+Go Reference Implementation: https://github.com/kulpreet/txref
 
 == Appendices ==
 
